@@ -7,12 +7,12 @@ body{
     
 }
 
-h1{
+h2{
     background: linear-gradient(to right, skyblue, white)
     
 }
 
-h1{
+h2{
     color: rgb(81, 12, 81)
 }
 
@@ -20,7 +20,7 @@ h3{
     color: rgba(253, 251, 255, 0.945);
 }
 
-h1{
+h2{
     border-style: solid;
     border-radius: 15px;
     border-width: 2px;
@@ -54,4 +54,25 @@ button{
     background-color: rgb(22, 109, 80);
     color: #fefefe;
     padding: 5px;
+}
+
+button:hover{
+    background-color: rgb(46, 192, 136);
+}
+
+button:active{
+    background-color: #fefefe;
+
+}
+
+button{
+    border-radius: 15px;
+    border-color: blanchedalmond;
+    box-shadow: inset;
+}
+
+h2{
+    padding: 5px;
+    padding-left: 10px;
+    margin-right: 100px;
 }
