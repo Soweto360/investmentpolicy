@@ -35,3 +35,23 @@ button{
     background-color: rgb(12, 84, 60);
 
 }
+
+#p1{
+    border-radius: 5px;
+    border-width: 8px;
+    border-right: 5px;
+    border-style:outset;
+    background-color: rgb(22, 109, 80);
+    color: #fefefe;
+    padding: 5px;
+}
+
+#p2{
+    border-radius: 5px;
+    border-width: 8px;
+    border-right: 5px;
+    border-style:outset;
+    background-color: rgb(22, 109, 80);
+    color: #fefefe;
+    padding: 5px;
+}
